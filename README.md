@@ -255,5 +255,5 @@ define(['N/ui/serverWidget', '/SuiteScripts/uiBuilder'],
 
 ## License
 
-© 2018–2025 Alexis Claire Marcelo. All rights reserved.  
+© 2018–2025. All rights reserved.  
 Free to use, modify, and share with proper attribution. Commercial use is permitted. No warranty is provided.
